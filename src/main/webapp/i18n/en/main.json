@@ -1,0 +1,18 @@
+{
+    "main": {
+        "title": "Welcome, to Vaneet's Den!",
+        "subtitle": "This is te place to experiment",
+        "logged": {
+            "message": "You are logged in as user \"{{username}}\"."
+        },
+        "question": "If you have any question on this:",
+        "link": {
+            "homepage": "",
+            "stackoverflow": "",
+            "bugtracker": "",
+            "contact": "contact vaneet.sharma@standardandpoors.com"
+        },
+        "like": "",
+        "github": "Github"
+    }
+}

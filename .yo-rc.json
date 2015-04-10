@@ -1,0 +1,19 @@
+{
+  "generator-jhipster": {
+    "baseName": "vjhipster",
+    "packageName": "com.vaneet.jhipster",
+    "packageFolder": "com/vaneet/jhipster",
+    "authenticationType": "session",
+    "hibernateCache": "ehcache",
+    "clusteredHttpSession": "no",
+    "websocket": "spring-websocket",
+    "databaseType": "sql",
+    "devDatabaseType": "h2Memory",
+    "prodDatabaseType": "mysql",
+    "useCompass": false,
+    "buildTool": "maven",
+    "frontendBuilder": "grunt",
+    "javaVersion": "7",
+    "rememberMeKey": "23e39ef8136976f9672a8b5753739d0aba2c4657"
+  }
+}
